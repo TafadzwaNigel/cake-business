@@ -71,7 +71,7 @@ img{
     height:auto;
     position: relative;
     background: rgba(200,200,200,0.4) ;
-    transform: translate(50% ,20%);
+    transform: translate(0% ,0%);
 }
 
 .BOX2{
@@ -80,7 +80,7 @@ img{
     height:auto;
     position: relative;
     background: rgba(200,200,200,0.4) ;
-    transform: translate(50% ,20%);
+    transform: translate(0% ,0%);
 }
 
 .BOX3{
