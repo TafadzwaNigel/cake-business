@@ -1,0 +1,223 @@
+*{
+    margin: 0%;
+    
+    font-family: sans-serif;
+    size-adjust:initial;
+    align-content: center;
+    
+}
+
+.main{
+    align-content: center;
+    size-adjust:initial;
+    width:auto;
+    height: auto;
+    position:sticky;
+    overflow: hidden;
+    background:linear-gradient(to right,  #9c27b0, #8ecdff);
+}
+
+
+.strip{
+    align-content: center;
+    transform: translate(0%,0%);
+    width: fit-content;
+    height: fit-content;
+    position:relative;
+    
+}
+
+.contactNO{
+    transform: translate(55%,30%);
+    color:wheat;
+}
+
+.bakersName{
+    transform: translate(-28%, 50%);
+    color:wheat;
+}
+.Contact{
+    display: flex;
+}
+
+
+button{
+    background-color: rgba(000,000,000,.01);
+    margin-right: 0.5cm;
+}
+
+.Buttons{
+    width: 300px;
+    font-weight: 600;
+    font-style:normal;
+    font-stretch:extra-condensed;
+    font-display:inherit ;
+    color: rgb(14, 4, 11);
+    align-items:flex-end;
+    transform:translate(20%,10%);
+}
+.myTag{
+    margin-bottom: 0.6cm;
+}
+
+img{
+    margin-bottom: 1cm;
+    transform:translate(1.5cm,0.5cm);
+    
+}
+
+.BOX1{
+    width:max-content;
+    height:auto;
+    position: relative;
+    background: rgba(200,200,200,0.4) ;
+    transform: translate(85% ,20%);
+}
+
+.BOX2{
+    margin-top: 3cm;
+    width:max-content;
+    height:auto;
+    position: relative;
+    background: rgba(200,200,200,0.4) ;
+    transform: translate(85% ,20%);
+}
+
+.BOX3{
+    margin-top: 3cm;
+    width:max-content;
+    height:auto;
+    position: relative;
+    background: rgba(200,200,200,0.4) ;
+    transform: translate(85% ,20%);
+}
+
+.BOX4{
+    margin-top: 3cm;
+    width:max-content;
+    height:auto;
+    position: relative;
+    background: rgba(200,200,200,0.4) ;
+    transform: translate(85% ,20%);
+}
+
+.BOX5{
+    margin-top: 3cm;
+    width:max-content;
+    height:auto;
+    position: relative;
+    background: rgba(200,200,200,0.4) ;
+    transform: translate(85% ,20%);
+}
+
+.BOX6{
+    margin-top: 3cm;
+    width:max-content;
+    height:auto;
+    position: relative;
+    background: rgba(200,200,200,0.4) ;
+    transform: translate(85% ,20%);
+}
+
+.BOX7{
+    margin-top: 3cm;
+    width:max-content;
+    height:auto;
+    position: relative;
+    background: rgba(200,200,200,0.4) ;
+    transform: translate(85% ,20%);
+}
+
+.BOX8{
+    margin-top: 3cm;
+    width:max-content;
+    height:auto;
+    position: relative;
+    background: rgba(200,200,200,0.4) ;
+    transform: translate(85% ,20%);
+}
+
+.BOX9{
+    margin-top: 3cm;
+    width:max-content;
+    height:auto;
+    position: relative;
+    background: rgba(200,200,200,0.4) ;
+    transform: translate(85% ,20%);
+}
+
+.BOX10{
+    margin-top: 3cm;
+    margin-bottom: 3cm;
+    width:max-content;
+    height:auto;
+    position: relative;
+    background: rgba(200,200,200,0.4) ;
+    transform: translate(85% ,20%);
+}
+
+.DESCRIPTION{
+    text-align: center;
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;    
+}
+
+.img1{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.img2{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.img3{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.img4{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.img5{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.img6{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.img7{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.img8{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.img9{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.img10{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
